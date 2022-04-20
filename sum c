@@ -1,0 +1,15 @@
+# include<stdio.h>
+int main()
+{
+    int a;
+    int b;
+    
+    printf("a \n");
+   
+    printf("b \n");
+    
+    
+  
+    printf("The two integers are %d ,product);
+    return 0;
+}
